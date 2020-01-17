@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTNativeAnimatedNodesManager.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTAdditionAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTValueAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationDriver.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTDiffClampAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTDivisionAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTEventAnimation.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTFrameAnimation.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTDecayAnimation.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTInterpolationAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTModuloAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTMultiplicationAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTPropsAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTSpringAnimation.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTStyleAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTSubtractionAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTTransformAnimatedNode.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTTrackingAnimatedNode.h

@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Folly/folly/Optional.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Folly/folly/Portability.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Folly/folly/CPortability.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Folly/folly/Traits.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Folly/folly/Utility.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/hwacdx/Development/6.React_Native/1.RN_Study/H191226_RN_Demo/ios/Pods/Folly/folly/CppAttributes.h
