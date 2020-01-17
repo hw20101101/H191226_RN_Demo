@@ -23,10 +23,10 @@ project.xcworkspace
 
 # Gradle
 /build/
-/android/app/build/
-/android/app/gradle/
-/android/app/gradlew
-/android/app/gradlew.bat
+/app/build/
+/app/gradle/
+/app/gradlew
+/app/gradlew.bat
 /ReactAndroid/build/
 
 # Buck
