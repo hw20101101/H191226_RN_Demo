@@ -22,12 +22,11 @@ DerivedData
 project.xcworkspace
 
 # Gradle
-/build/
-/app/build/
-/app/gradle/
-/app/gradlew
-/app/gradlew.bat
-/ReactAndroid/build/
+build/
+gradle/
+# /app/gradlew
+# /app/gradlew.bat
+# /ReactAndroid/build/
 
 # Buck
 .buckd
@@ -39,6 +38,7 @@ buck-out
 .project
 .settings
 .classpath
+*.apk
 
 # Watchman
 .watchmanconfig
@@ -48,7 +48,7 @@ buck-out
 .gradle
 local.properties
 *.iml
-/android/
+# /android/
 
 # Node
 node_modules
