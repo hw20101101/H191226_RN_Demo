@@ -19,7 +19,7 @@ export const AppStackNavigator = createStackNavigator({
     Page2: {
         screen: Page2,
         navigationOptions: {//定义页面的导航数据，静态配置
-            title: 'this is Page2'
+            title: 'this is Page2 1'
         }
     }
 })
